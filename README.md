@@ -20,7 +20,7 @@ A deep learning-based meme classification app that automatically detects sexist 
 
 ---
 
-## 🗂️ Folder Structure
+
 
 ## 🖼️ Demo UI Preview
 
