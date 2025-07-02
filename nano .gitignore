@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Checkpoints
+checkpoints/
+flagged/
+*.pt
+*.pth
+*.pkl
+
+# Uploads
+static/uploads/
+*.jpeg
+*.jpg
+
+# Notebooks (optional)
+notebooks/
+
+# Virtual Environment
+venv/
+.env
+
+# System Files
+.DS_Store

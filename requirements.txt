@@ -1,0 +1,13 @@
+flask
+torch==2.4.1
+torchvision==0.19.1
+transformers>=4.30.0
+huggingface-hub>=0.14.0
+easyocr
+pillow>=9.0.1
+packaging>=21
+easyocr
+gradio
+langdetect
+
+
