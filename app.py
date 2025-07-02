@@ -9,11 +9,11 @@ os.makedirs("checkpoints", exist_ok=True)
 
 # Task 1
 if not os.path.exists("checkpoints/best_model_task1_rank(1).pt"):
-    gdown.download("https://drive.google.com/file/d/19YWvJQ-ussNtRHqWRSE6gmlkRBXeFE5o/view?usp=sharing", quiet=False)
+    gdown.download("link1", quiet=False)
 
 # Task 2
 if not os.path.exists("checkpoints/best_model_checkpoint_task2.pth"):
-    gdown.download("https://drive.google.com/file/d/1ZVa6cXH9XUOYgDQ0E5APMdxIw9KQbUpp/view?usp=sharing", "checkpoints/best_model_checkpoint_task2.pth", quiet=False)
+    gdown.download("link2", "checkpoints/best_model_checkpoint_task2.pth", quiet=False)
 
 
 task1_model = load_task1_model()
