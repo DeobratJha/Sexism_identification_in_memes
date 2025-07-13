@@ -3,7 +3,7 @@
 
 A deep learning-based meme classification app that automatically detects sexist content in memes using both image and text features. The project uses:
 - **EasyOCR** to extract meme text from images
-- **BLIP** + **Multilingual BERT** for initial classification (`yes` / `no`)
+- **BLIP** + **BERT** for initial classification (`yes` / `no`)
 - **ViT** + **English BERT** for fine classification (`direct` / `judgemental`)
 - **Gradio** for an interactive web interface
 
