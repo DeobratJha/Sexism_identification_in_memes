@@ -1,5 +1,6 @@
 # Sexism_identification_in_memes
 # 🧠 Meme Classifier
+# my research paper related to this [Sexism Identification](https://ceur-ws.org/Vol-4038/paper_157.pdf)
 
 A deep learning-based meme classification app that automatically detects sexist content in memes using both image and text features. The project uses:
 - **EasyOCR** to extract meme text from images
