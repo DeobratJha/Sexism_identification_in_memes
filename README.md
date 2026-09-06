@@ -4,6 +4,11 @@
 
 - This Project was part of CLEF 2025 Competition in which our project got global **Rank 6**
 
+
+
+
+
+
 A deep learning-based meme classification app that automatically detects sexist content in memes using both image and text features. The project uses:
 - **EasyOCR** to extract meme text from images
 - **BLIP** + **BERT** for initial classification (`yes` / `no`)
